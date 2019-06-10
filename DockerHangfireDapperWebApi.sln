@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerHangfireDapperWebApi", "DockerHangfireDapperWebApi\DockerHangfireDapperWebApi.csproj", "{83877523-2C39-464B-8C26-CB11E21F0799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83877523-2C39-464B-8C26-CB11E21F0799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83877523-2C39-464B-8C26-CB11E21F0799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83877523-2C39-464B-8C26-CB11E21F0799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83877523-2C39-464B-8C26-CB11E21F0799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6956FCEE-5295-4B58-AB56-C1A843868207}
+	EndGlobalSection
+EndGlobal
